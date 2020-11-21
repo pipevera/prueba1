@@ -9,16 +9,53 @@ nav {
   background-color: #660066;
 }
 
+.delgada {
+  font-family: "Oswald", sans-serif;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+}
+
 .icono {
   font-size: 50px;
+}
+
+.hero {
+  padding-top: 45%;
 }
 
 header {
   background-image: url(../img/bg_hero.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .ultimos-trabajos {
   background-color: #660066;
+}
+
+footer {
+  background-color: #660066;
+}
+
+.linea-blanca1 {
+  width: 40%;
+  border-color: #ffffff;
+}
+
+.linea-negra {
+  width: 20%;
+  border-color: #212529;
+}
+
+.linea-negra2 {
+  width: 15%;
+  border-color: #212529;
+}
+
+.linea-blanca2 {
+  width: 20%;
+  border-color: #ffffff;
 }
